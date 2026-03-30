@@ -1,0 +1,170 @@
+{
+  "Attribute1": {
+    "role": "Feature",
+    "type": "Categorical",
+    "demographic": null,
+    "description": "Status of existing checking account",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute2": {
+    "role": "Feature",
+    "type": "Integer",
+    "demographic": null,
+    "description": "Duration",
+    "units": "months",
+    "missing_values": "no"
+  },
+  "Attribute3": {
+    "role": "Feature",
+    "type": "Categorical",
+    "demographic": null,
+    "description": "Credit history",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute4": {
+    "role": "Feature",
+    "type": "Categorical",
+    "demographic": null,
+    "description": "Purpose",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute5": {
+    "role": "Feature",
+    "type": "Integer",
+    "demographic": null,
+    "description": "Credit amount",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute6": {
+    "role": "Feature",
+    "type": "Categorical",
+    "demographic": null,
+    "description": "Savings account/bonds",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute7": {
+    "role": "Feature",
+    "type": "Categorical",
+    "demographic": "Other",
+    "description": "Present employment since",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute8": {
+    "role": "Feature",
+    "type": "Integer",
+    "demographic": null,
+    "description": "Installment rate in percentage of disposable income",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute9": {
+    "role": "Feature",
+    "type": "Categorical",
+    "demographic": "Marital Status",
+    "description": "Personal status and sex",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute10": {
+    "role": "Feature",
+    "type": "Categorical",
+    "demographic": null,
+    "description": "Other debtors / guarantors",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute11": {
+    "role": "Feature",
+    "type": "Integer",
+    "demographic": null,
+    "description": "Present residence since",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute12": {
+    "role": "Feature",
+    "type": "Categorical",
+    "demographic": null,
+    "description": "Property",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute13": {
+    "role": "Feature",
+    "type": "Integer",
+    "demographic": "Age",
+    "description": "Age",
+    "units": "years",
+    "missing_values": "no"
+  },
+  "Attribute14": {
+    "role": "Feature",
+    "type": "Categorical",
+    "demographic": null,
+    "description": "Other installment plans",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute15": {
+    "role": "Feature",
+    "type": "Categorical",
+    "demographic": "Other",
+    "description": "Housing",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute16": {
+    "role": "Feature",
+    "type": "Integer",
+    "demographic": null,
+    "description": "Number of existing credits at this bank",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute17": {
+    "role": "Feature",
+    "type": "Categorical",
+    "demographic": "Occupation",
+    "description": "Job",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute18": {
+    "role": "Feature",
+    "type": "Integer",
+    "demographic": null,
+    "description": "Number of people being liable to provide maintenance for",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute19": {
+    "role": "Feature",
+    "type": "Binary",
+    "demographic": null,
+    "description": "Telephone",
+    "units": null,
+    "missing_values": "no"
+  },
+  "Attribute20": {
+    "role": "Feature",
+    "type": "Binary",
+    "demographic": "Other",
+    "description": "foreign worker",
+    "units": null,
+    "missing_values": "no"
+  },
+  "class": {
+    "role": "Target",
+    "type": "Binary",
+    "demographic": null,
+    "description": "1 = Good, 2 = Bad",
+    "units": null,
+    "missing_values": "no"
+  }
+}
