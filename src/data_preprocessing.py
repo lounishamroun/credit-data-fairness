@@ -13,7 +13,7 @@ y.to_csv('data/labels.csv', index=False)
 '''Feature Engineering'''
 
 # Load a JSON schema containing metadata
-with open("data_metdata.json", "r", encoding="utf-8") as f:
+with open("data_metadata.json", "r", encoding="utf-8") as f:
     schema = json.load(f)
 
 # Get feature groups from schema
