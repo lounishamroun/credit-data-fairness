@@ -13,5 +13,6 @@ dependencies = [
     "pandas>=2.2.0",
     "scikit-learn>=1.6.0",
     "seaborn>=0.13.0",
+    "shap>=0.47.0",
     "ucimlrepo>=0.0.7",
 ]
